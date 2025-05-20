@@ -1,0 +1,20 @@
+[
+  {
+    "id": "machine-001",
+    "os": "Windows",
+    "disk_encrypted": true,
+    "os_updated": false,
+    "antivirus_active": true,
+    "sleep_timeout": 15,
+    "last_checkin": "2025-05-20T10:30:00Z"
+  },
+  {
+    "id": "machine-002",
+    "os": "Linux",
+    "disk_encrypted": false,
+    "os_updated": true,
+    "antivirus_active": false,
+    "sleep_timeout": 20,
+    "last_checkin": "2025-05-20T10:20:00Z"
+  }
+]

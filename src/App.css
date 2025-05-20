@@ -1,0 +1,55 @@
+/* .container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #0a15a4;
+}
+
+.issue {
+  background-color: #f53e3e;
+} */
+
+
+
+.container {
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 80%;            
+  margin: 20px auto 0;   
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #0a15a4;
+  color: white;          
+  font-weight: bold;
+}
+
+.issue {
+  background-color: #f53e3e;
+  color: white;          
+}
